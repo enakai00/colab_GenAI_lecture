@@ -13,3 +13,9 @@
 - 演習課題１：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%201-1.ipynb)
 - 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%201-2.ipynb)
 - 演習課題３：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%201-3.ipynb)
+
+## 第2章
+
+- 演習課題１：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%202-1.ipynb)
+- 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%202-2.ipynb)
+- 演習課題３：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%202-3.ipynb)
