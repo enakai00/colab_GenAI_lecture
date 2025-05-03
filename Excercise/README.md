@@ -26,7 +26,7 @@
 - 演習課題２：この演習は、次の演習課題３の準備として、ノートブック [2. LSTM recipe generator training.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part03/2.%20LSTM%20recipe%20generator%20training.ipynb) をそのまま実行します。
 - 演習課題３：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%203-3.ipynb)
 
-## 第3章
+## 第4章
 
 - 演習課題１：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%204-1.ipynb)
 - 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%204-2.ipynb)
