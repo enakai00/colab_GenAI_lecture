@@ -32,3 +32,9 @@
 - 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%204-2.ipynb)
 - 演習課題３：この演習は、次の演習課題４の準備として、ノートブック [2. Transformer recipe generator training.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part04/2.%20Transformer%20recipe%20generator%20training.ipynb) をそのまま実行します。
 - 演習課題４：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%204-4.ipynb)
+
+## 第5章
+
+- 演習課題１：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%205-1.ipynb)
+- 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%205-2.ipynb)
+- 演習課題３：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/excercise_answer/Excercise/Excercise%205-3.ipynb)
