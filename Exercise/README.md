@@ -35,6 +35,6 @@
 
 ## 第5章
 
-- 演習課題１：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Excercise/Excercise%205-1.ipynb)
-- 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Excercise/Excercise%205-2.ipynb)
-- 演習課題３：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Excercise/Excercise%205-3.ipynb)
+- 演習課題１：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Exercise/Exercise%205-1.ipynb)
+- 演習課題２：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Exercise/Exercise%205-2.ipynb)
+- 演習課題３：[解答例](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Exercise/Exercise%205-3.ipynb)
