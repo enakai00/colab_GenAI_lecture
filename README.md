@@ -9,6 +9,12 @@ Disclaimer: This is not an official Google product
 
 ## ノートブックの修正履歴
 
+#### 2026/05/28
+
+- Part03 / [1. LSTM emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part03/1.%20LSTM%20emotion%20recognizer.ipynb)
+  - emotion データセットをダウンロードする際のリポジトリ名を `dair-ai/emotion` に修正しました。
+
+
 #### 2025/07/23
 
 - Part03 / [1. LSTM emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part03/1.%20LSTM%20emotion%20recognizer.ipynb)
