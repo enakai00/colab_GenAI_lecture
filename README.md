@@ -14,16 +14,20 @@ Disclaimer: This is not an official Google product
 - Part03 / [1. LSTM emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part03/1.%20LSTM%20emotion%20recognizer.ipynb)
   - emotion データセットをダウンロードする際のリポジトリ名を `dair-ai/emotion` に修正しました。
 
-- Part05 / [1. Transformer emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part04/1.%20Transformer%20emotion%20recognizer.ipynb)
+- Part04 / [1. Transformer emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part04/1.%20Transformer%20emotion%20recognizer.ipynb)
   - emotion データセットをダウンロードする際のリポジトリ名を `dair-ai/emotion` に修正しました。
 
 - Part03 / [3. LSTM recipe generator analysis.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part03/3.%20LSTM%20recipe%20generator%20analysis.ipynb)
   - googletrans パッケージのバージョンを更新して、それに伴うコードの修正を行いました。
+
+- Part04 / [3. Transformer recipe generator analysis.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part04/3.%20Transformer%20recipe%20generator%20analysis.ipynb)
+  - googletrans パッケージのバージョンを更新して、それに伴うコードの修正を行いました。
+
 
 #### 2025/07/23
 
 - Part03 / [1. LSTM emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part03/1.%20LSTM%20emotion%20recognizer.ipynb)
   - datasets ライブラリーの trust_remote_code オプションの廃止に伴うコードの修正を行いました。
 
-- Part05 / [1. Transformer emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part04/1.%20Transformer%20emotion%20recognizer.ipynb)
+- Part04 / [1. Transformer emotion recognizer.ipynb](https://github.com/enakai00/colab_GenAI_lecture/blob/main/Part04/1.%20Transformer%20emotion%20recognizer.ipynb)
   - datasets ライブラリーの trust_remote_code オプションの廃止に伴うコードの修正を行いました。
